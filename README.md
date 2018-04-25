@@ -12,6 +12,7 @@
 |[程序设计基础（C语言）](https://github.com/edu2act/course-C/)|2017级|[基础课程](./courses/基础课程)||
 |[操作系统](https://github.com/edu2act/course-OS/)|2016级|[基础课程](./courses/基础课程)||
 |[数据库原理](https://github.com/edu2act/course-DataBase/)|2016级|[基础课程](./courses/基础课程)||
+|[项目管理](https://github.com/edu2act/course-IT-Project-Management/)|2015级|[基础课程](./courses/基础课程)||
 |[JavaSE](https://github.com/edu2act/course-JavaSE-Android/)|2015级|[软件测试](./courses/软件测试)||
 |接口测试|2016级|[软件测试](./courses/软件测试)||
 |[性能测试](https://github.com/edu2act/course-Load-Testing/)|2016级|[软件测试](./courses/软件测试)||
@@ -28,9 +29,9 @@
 |混合应用开发|2015级|[HTML5与移动互联网开发](./courses/HTML5与移动互联网开发)||
 |[H5动画与游戏开发](https://github.com/edu2act/course-H5-Animation-and-Game-Development)|2015级|[HTML5与移动互联网开发](./courses/HTML5与移动互联网开发)||
 |JavaSE|2016级|[Java与大数据分析](./courses/Java与大数据分析)||
-|大数据企业应用开发|2015级|[Java与大数据分析](./courses/Java与大数据分析)||
 |[Hadoop架构](https://github.com/edu2act/course-Hadoop)|2015级|[Java与大数据分析](./courses/Java与大数据分析)||
 |Python与数据挖掘|2015级|[Java与大数据分析](./courses/Java与大数据分析)||
+|大数据企业应用开发|2015级|[Java与大数据分析](./courses/Java与大数据分析)||
 |[JavaSE](https://github.com/edu2act/course-JavaSE-Android/)|2016级|[Java与移动智能设备开发](./courses/Java与移动智能设备开发)||
 |[Android基础](https://github.com/edu2act/course-android/tree/2017-2018-2st)|2015级|[Java与移动智能设备开发](./courses/Java与移动智能设备开发)|[![](https://img.shields.io/badge/term-2017--2018--2st-blue.svg)](https://github.com/edu2act/course-android/releases/tag/2017-2018-2st)|
 |Android综合应用|2015级|[Java与移动智能设备开发](./courses/Java与移动智能设备开发)||
