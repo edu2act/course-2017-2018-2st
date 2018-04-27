@@ -28,7 +28,7 @@
 |SPA富应用开发|2015级|[HTML5与移动互联网开发](./courses/HTML5与移动互联网开发)||
 |混合应用开发|2015级|[HTML5与移动互联网开发](./courses/HTML5与移动互联网开发)||
 |[H5动画与游戏开发](https://github.com/edu2act/course-H5-Animation-and-Game-Development)|2015级|[HTML5与移动互联网开发](./courses/HTML5与移动互联网开发)||
-|JavaSE|2016级|[Java与大数据分析](./courses/Java与大数据分析)||
+|[JavaSE](https://github.com/edu2act/course-javase-bigdata)|2016级|[Java与大数据分析](./courses/Java与大数据分析)||
 |[Hadoop架构](https://github.com/edu2act/course-Hadoop)|2015级|[Java与大数据分析](./courses/Java与大数据分析)||
 |Python与数据挖掘|2015级|[Java与大数据分析](./courses/Java与大数据分析)||
 |大数据企业应用开发|2015级|[Java与大数据分析](./courses/Java与大数据分析)||
