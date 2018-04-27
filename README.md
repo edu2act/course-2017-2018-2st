@@ -13,10 +13,10 @@
 |[操作系统](https://github.com/edu2act/course-OS/)|2016级|[基础课程](./courses/基础课程)||
 |[数据库原理](https://github.com/edu2act/course-DataBase/)|2016级|[基础课程](./courses/基础课程)||
 |[项目管理](https://github.com/edu2act/course-IT-Project-Management/)|2015级|[基础课程](./courses/基础课程)||
-|[JavaSE](https://github.com/edu2act/course-JavaSE-Android/)|2015级|[软件测试](./courses/软件测试)||
-|接口测试|2016级|[软件测试](./courses/软件测试)||
-|[性能测试](https://github.com/edu2act/course-Load-Testing/)|2016级|[软件测试](./courses/软件测试)||
-|[移动端测试](https://github.com/edu2act/course-APP-Testing/)|2016级|[软件测试](./courses/软件测试)||
+|[JavaSE](https://github.com/edu2act/course-JavaSE-Android/)|2016级|[软件测试](./courses/软件测试)||
+|接口测试|2015级|[软件测试](./courses/软件测试)||
+|[性能测试](https://github.com/edu2act/course-Load-Testing/)|2015级|[软件测试](./courses/软件测试)||
+|[移动端测试](https://github.com/edu2act/course-APP-Testing/)|2015级|[软件测试](./courses/软件测试)||
 |机器学习基础|2016级|[Python与机器学习](./courses/Python与机器学习)||
 |深度学习进阶|2015级|[Python与机器学习](./courses/Python与机器学习)||
 |决策树与集成算法|2015级|[Python与机器学习](./courses/Python与机器学习)||
