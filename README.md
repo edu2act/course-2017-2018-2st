@@ -15,7 +15,7 @@
 |[项目管理](https://github.com/edu2act/course-IT-Project-Management/)|2015级|[基础课程](./courses/基础课程)||
 |软件体系结构（设计模式）|2015级|[基础课程](./courses/基础课程)||
 |[JavaSE](https://github.com/edu2act/course-JavaSE-Android/)|2016级|[软件测试](./courses/软件测试)||
-|接口测试|2015级|[软件测试](./courses/软件测试)||
+|[接口测试](https://github.com/edu2act/course-interface-testing)|2015级|[软件测试](./courses/软件测试)||
 |[性能测试](https://github.com/edu2act/course-Load-Testing/)|2015级|[软件测试](./courses/软件测试)||
 |[移动端测试](https://github.com/edu2act/course-APP-Testing/)|2015级|[软件测试](./courses/软件测试)||
 |机器学习基础|2016级|[Python与机器学习](./courses/Python与机器学习)||
