@@ -23,7 +23,7 @@
 |决策树与集成算法|2015级|[Python与机器学习](./courses/Python与机器学习)||
 |聚类与推荐算法|2015级|[Python与机器学习](./courses/Python与机器学习)||
 |分布式系统原理|2015级|[PHP与云计算技术](./courses/PHP与云计算技术)||
-|高性能PHP应用开发|2015级|[PHP与云计算技术](./courses/PHP与云计算技术)||
+|[高性能PHP应用开发](https://github.com/edu2act/course-php-hign-performance/)|2015级|[PHP与云计算技术](./courses/PHP与云计算技术)||
 |[Linux平台PHP服务端开发](https://github.com/edu2act/course-php-serverside-development-on-linux)|2015级|[PHP与云计算技术](./courses/PHP与云计算技术)||
 |[JavaScript进阶](https://github.com/edu2act/course-javascript-advanced)|2016级|[HTML5与移动互联网开发](./courses/HTML5与移动互联网开发)||
 |SPA富应用开发|2015级|[HTML5与移动互联网开发](./courses/HTML5与移动互联网开发)||
