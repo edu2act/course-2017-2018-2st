@@ -21,12 +21,12 @@
 |机器学习基础|2016级|[Python与机器学习](./courses/Python与机器学习)||
 |深度学习进阶|2015级|[Python与机器学习](./courses/Python与机器学习)||
 |决策树与集成算法|2015级|[Python与机器学习](./courses/Python与机器学习)||
-|聚类与推荐算法|2015级|[Python与机器学习](./courses/Python与机器学习)||
+|[聚类与推荐算法](https://github.com/edu2act/course-RecSys)|2015级|[Python与机器学习](./courses/Python与机器学习)||
 |[分布式系统原理](https://github.com/edu2act/course-high-performance-php-application)|2015级|[PHP与云计算技术](./courses/PHP与云计算技术)||
 |[高性能PHP应用开发](https://github.com/edu2act/course-php-hign-performance/)|2015级|[PHP与云计算技术](./courses/PHP与云计算技术)||
 |[Linux平台PHP服务端开发](https://github.com/edu2act/course-php-serverside-development-on-linux)|2015级|[PHP与云计算技术](./courses/PHP与云计算技术)||
 |[JavaScript进阶](https://github.com/edu2act/course-javascript-advanced)|2016级|[HTML5与移动互联网开发](./courses/HTML5与移动互联网开发)||
-|SPA富应用开发|2015级|[HTML5与移动互联网开发](./courses/HTML5与移动互联网开发)||
+|[SPA富应用开发](https://github.com/edu2act/course-spa)|2015级|[HTML5与移动互联网开发](./courses/HTML5与移动互联网开发)||
 |[混合应用开发](https://github.com/edu2act/course-hybrid-app-development)|2015级|[HTML5与移动互联网开发](./courses/HTML5与移动互联网开发)||
 |[H5动画与游戏开发](https://github.com/edu2act/course-H5-Animation-and-Game-Development)|2015级|[HTML5与移动互联网开发](./courses/HTML5与移动互联网开发)||
 |[JavaSE](https://github.com/edu2act/course-javase-bigdata)|2016级|[Java与大数据分析](./courses/Java与大数据分析)||
