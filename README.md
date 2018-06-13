@@ -18,9 +18,9 @@
 |[接口测试](https://github.com/edu2act/course-interface-testing)|2015级|[软件测试](./courses/软件测试)||
 |[性能测试](https://github.com/edu2act/course-Load-Testing/)|2015级|[软件测试](./courses/软件测试)||
 |[移动端测试](https://github.com/edu2act/course-APP-Testing/)|2015级|[软件测试](./courses/软件测试)||
-|机器学习基础|2016级|[Python与机器学习](./courses/Python与机器学习)||
-|深度学习进阶|2015级|[Python与机器学习](./courses/Python与机器学习)||
-|决策树与集成算法|2015级|[Python与机器学习](./courses/Python与机器学习)||
+|[机器学习基础](https://github.com/edu2act/course-machine-learning-foundation)|2016级|[Python与机器学习](./courses/Python与机器学习)||
+|[深度学习进阶](https://github.com/edu2act/course-deep-learning-advanced)|2015级|[Python与机器学习](./courses/Python与机器学习)||
+|[决策树与集成算法](https://github.com/edu2act/course-machine-learning-foundation)|2015级|[Python与机器学习](./courses/Python与机器学习)||
 |[聚类与推荐算法](https://github.com/edu2act/course-RecSys)|2015级|[Python与机器学习](./courses/Python与机器学习)||
 |[分布式系统原理](https://github.com/edu2act/course-high-performance-php-application)|2015级|[PHP与云计算技术](./courses/PHP与云计算技术)||
 |[高性能PHP应用开发](https://github.com/edu2act/course-php-hign-performance/)|2015级|[PHP与云计算技术](./courses/PHP与云计算技术)||
