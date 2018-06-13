@@ -13,7 +13,7 @@
 |[数据库原理](https://github.com/edu2act/course-DataBase/)|2016级|[基础课程](./courses/基础课程)||
 |[Linux系统基础](https://github.com/edu2act/course-linux-system)|2016级|[基础课程](./courses/基础课程)||
 |[项目管理](https://github.com/edu2act/course-IT-Project-Management/)|2015级|[基础课程](./courses/基础课程)||
-|软件体系结构（设计模式）|2015级|[基础课程](./courses/基础课程)||
+|[软件体系结构（设计模式）](https://github.com/edu2act/course-Software-architecture)|2015级|[基础课程](./courses/基础课程)||
 |[JavaSE](https://github.com/edu2act/course-JavaSE-Android/)|2016级|[软件测试](./courses/软件测试)||
 |[接口测试](https://github.com/edu2act/course-interface-testing)|2015级|[软件测试](./courses/软件测试)||
 |[性能测试](https://github.com/edu2act/course-Load-Testing/)|2015级|[软件测试](./courses/软件测试)||
