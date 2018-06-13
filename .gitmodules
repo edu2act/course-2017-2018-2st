@@ -7,3 +7,6 @@
 [submodule "courses/Python与机器学习/机器学习基础"]
 	path = courses/Python与机器学习/机器学习基础
 	url = git@github.com:edu2act/course-machine-learning-foundation.git
+[submodule "courses/Python与机器学习/深度学习进阶"]
+	path = courses/Python与机器学习/深度学习进阶
+	url = git@github.com:edu2act/course-deep-learning-advanced.git
