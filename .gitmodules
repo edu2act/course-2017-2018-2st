@@ -10,3 +10,6 @@
 [submodule "courses/Python与机器学习/深度学习进阶"]
 	path = courses/Python与机器学习/深度学习进阶
 	url = git@github.com:edu2act/course-deep-learning-advanced.git
+[submodule "courses/Python与机器学习/决策树与集成算法"]
+	path = courses/Python与机器学习/决策树与集成算法
+	url = git@github.com:edu2act/course-decision-tree.git
