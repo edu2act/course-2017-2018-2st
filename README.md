@@ -18,7 +18,7 @@
 |[接口测试](https://github.com/edu2act/course-interface-testing)|2015级|[软件测试](./courses/软件测试)||
 |[性能测试](https://github.com/edu2act/course-Load-Testing/)|2015级|[软件测试](./courses/软件测试)||
 |[移动端测试](https://github.com/edu2act/course-APP-Testing/)|2015级|[软件测试](./courses/软件测试)||
-|[机器学习基础](https://github.com/edu2act/course-machine-learning-foundation)|2016级|[Python与机器学习](./courses/Python与机器学习)||
+|[机器学习基础](https://github.com/edu2act/course-machine-learning-foundation)|2016级|[Python与机器学习](./courses/Python与机器学习)|[![](https://img.shields.io/badge/term-2017--2018--2st-blue.svg)](https://github.com/edu2act/course-machine-learning-foundation/releases/tag/2017-2018-2st)|
 |[深度学习进阶](https://github.com/edu2act/course-deep-learning-advanced)|2015级|[Python与机器学习](./courses/Python与机器学习)||
 |[决策树与集成算法](https://github.com/edu2act/course-decision-tree)|2015级|[Python与机器学习](./courses/Python与机器学习)||
 |[聚类与推荐算法](https://github.com/edu2act/course-RecSys)|2015级|[Python与机器学习](./courses/Python与机器学习)||
