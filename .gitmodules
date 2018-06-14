@@ -13,3 +13,6 @@
 [submodule "courses/Python与机器学习/决策树与集成算法"]
 	path = courses/Python与机器学习/决策树与集成算法
 	url = git@github.com:edu2act/course-decision-tree.git
+[submodule "courses/Python与机器学习/聚类与推荐算法"]
+	path = courses/Python与机器学习/聚类与推荐算法
+	url = git@github.com:edu2act/course-RecSys.git

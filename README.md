@@ -21,7 +21,7 @@
 |[机器学习基础](https://github.com/edu2act/course-machine-learning-foundation/tree/2017-2018-2st)|2016级|[Python与机器学习](./courses/Python与机器学习)|[![](https://img.shields.io/badge/term-2017--2018--2st-blue.svg)](https://github.com/edu2act/course-machine-learning-foundation/releases/tag/2017-2018-2st)|
 |[深度学习进阶](https://github.com/edu2act/course-deep-learning-advanced/tree/2017-2018-2st)|2015级|[Python与机器学习](./courses/Python与机器学习)|[![](https://img.shields.io/badge/term-2017--2018--2st-blue.svg)](https://github.com/edu2act/course-deep-learning-advanced/releases/tag/2017-2018-2st)|
 |[决策树与集成算法](https://github.com/edu2act/course-decision-tree/tree/2017-2018-2st)|2015级|[Python与机器学习](./courses/Python与机器学习)|[![](https://img.shields.io/badge/term-2017--2018--2st-blue.svg)](https://github.com/edu2act/course-decision-tree/releases/tag/2017-2018-2st)|
-|[聚类与推荐算法](https://github.com/edu2act/course-RecSys)|2015级|[Python与机器学习](./courses/Python与机器学习)||
+|[聚类与推荐算法](https://github.com/edu2act/course-RecSys/tree/2017-2018-2st)|2015级|[Python与机器学习](./courses/Python与机器学习)|[![](https://img.shields.io/badge/term-2017--2018--2st-blue.svg)](https://github.com/edu2act/course-RecSys/releases/tag/2017-2018-2st)|
 |分布式系统原理|2015级|[PHP与云计算技术](./courses/PHP与云计算技术)||
 |[高性能PHP应用开发](https://github.com/edu2act/course-php-hign-performance/)|2015级|[PHP与云计算技术](./courses/PHP与云计算技术)||
 |[Linux平台PHP服务端开发](https://github.com/edu2act/course-php-serverside-development-on-linux)|2015级|[PHP与云计算技术](./courses/PHP与云计算技术)||
