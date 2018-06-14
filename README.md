@@ -32,7 +32,7 @@
 |[JavaSE](https://github.com/edu2act/course-javase-bigdata)|2016级|[Java与大数据分析](./courses/Java与大数据分析)||
 |[Hadoop架构](https://github.com/edu2act/course-Hadoop)|2015级|[Java与大数据分析](./courses/Java与大数据分析)||
 |Python与数据挖掘|2015级|[Java与大数据分析](./courses/Java与大数据分析)||
-|大数据企业应用开发|2015级|[Java与大数据分析](./courses/Java与大数据分析)||
+|[数据挖掘基础](https://github.com/edu2act/course-Fundamentals-of-data-mining)|2015级|[Java与大数据分析](./courses/Java与大数据分析)||
 |[JavaSE](https://github.com/edu2act/course-JavaSE-Android/)|2016级|[Java与移动智能设备开发](./courses/Java与移动智能设备开发)||
 |[Android基础](https://github.com/edu2act/course-android/tree/2017-2018-2st)|2015级|[Java与移动智能设备开发](./courses/Java与移动智能设备开发)|[![](https://img.shields.io/badge/term-2017--2018--2st-blue.svg)](https://github.com/edu2act/course-android/releases/tag/2017-2018-2st)|
 |[Android综合应用](https://github.com/edu2act/course-Android-Integrated-Application/tree/2017-2018-2st)|2015级|[Java与移动智能设备开发](./courses/Java与移动智能设备开发)|[![](https://img.shields.io/badge/term-2017--2018--2st-blue.svg)](https://github.com/edu2act/course-Android-Integrated-Application/releases/tag/2017-2018-2st)|
