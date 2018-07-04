@@ -31,7 +31,7 @@
 |[H5动画与游戏开发](https://github.com/edu2act/course-H5-Animation-and-Game-Development)|2015级|[HTML5与移动互联网开发](./courses/HTML5与移动互联网开发)||
 |[JavaSE](https://github.com/edu2act/course-javase-bigdata)|2016级|[Java与大数据分析](./courses/Java与大数据分析)||
 |[Hadoop架构](https://github.com/edu2act/course-Hadoop)|2015级|[Java与大数据分析](./courses/Java与大数据分析)||
-|Python与数据挖掘|2015级|[Java与大数据分析](./courses/Java与大数据分析)||
+|[Python与数据挖掘](https://github.com/edu2act/course-Python)|2015级|[Java与大数据分析](./courses/Java与大数据分析)||
 |[数据挖掘基础](https://github.com/edu2act/course-Fundamentals-of-data-mining)|2015级|[Java与大数据分析](./courses/Java与大数据分析)||
 |[JavaSE](https://github.com/edu2act/course-JavaSE-Android/)|2016级|[Java与移动智能设备开发](./courses/Java与移动智能设备开发)||
 |[Android基础](https://github.com/edu2act/course-android/tree/2017-2018-2st)|2015级|[Java与移动智能设备开发](./courses/Java与移动智能设备开发)|[![](https://img.shields.io/badge/term-2017--2018--2st-blue.svg)](https://github.com/edu2act/course-android/releases/tag/2017-2018-2st)|
