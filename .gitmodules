@@ -16,3 +16,6 @@
 [submodule "courses/Python与机器学习/聚类与推荐算法"]
 	path = courses/Python与机器学习/聚类与推荐算法
 	url = git@github.com:edu2act/course-RecSys.git
+[submodule "courses/Java与大数据分析/Python与数据挖掘"]
+	path = courses/Java与大数据分析/Python与数据挖掘
+	url = git@github.com:edu2act/course-Python.git
