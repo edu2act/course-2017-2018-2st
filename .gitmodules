@@ -31,3 +31,6 @@
 [submodule "courses/PHP与云计算技术/Linux平台PHP服务端开发"]
 	path = courses/PHP与云计算技术/Linux平台PHP服务端开发
 	url = git@github.com:edu2act/course-php-serverside-development-on-linux.git
+[submodule "courses/基础课程/项目管理"]
+	path = courses/基础课程/项目管理
+	url = git@github.com:edu2act/course-IT-Project-Management.git
