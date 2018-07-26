@@ -34,3 +34,6 @@
 [submodule "courses/基础课程/项目管理"]
 	path = courses/基础课程/项目管理
 	url = git@github.com:edu2act/course-IT-Project-Management.git
+[submodule "courses/基础课程/Linux系统基础"]
+	path = courses/基础课程/Linux系统基础
+	url = git@github.com:edu2act/course-linux-system.git
