@@ -6,7 +6,7 @@
 
 |课程名称|开设年级|所属方向|下载|
 |-------|-------|-------|-------|
-|[网络原理](https://github.com/edu2act/course-NetWork/)|2017级|[基础课程](./courses/基础课程)||
+|[网络原理](https://github.com/edu2act/course-NetWork/tree/2017-2018-2st)|2017级|[基础课程](./courses/基础课程)|[![](https://img.shields.io/badge/term-2017--2018--2st-blue.svg)](https://github.com/edu2act/course-NetWork/releases/tag/2017-2018-2st)|
 |[WEB开发（一）](https://github.com/edu2act/course-web1/)|2017级|[基础课程](./courses/基础课程)||
 |[程序设计基础（C语言）](https://github.com/edu2act/course-C/tree/2017-2018-2st)|2017级|[基础课程](./courses/基础课程)|[![](https://img.shields.io/badge/term-2017--2018--2st-blue.svg)](https://github.com/edu2act/course-C/releases/tag/2017-2018-2st)|
 |[操作系统](https://github.com/edu2act/course-OS/)|2016级|[基础课程](./courses/基础课程)||

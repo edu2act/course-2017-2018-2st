@@ -40,3 +40,6 @@
 [submodule "courses/HTML5与移动互联网开发/SPA富应用开发"]
 	path = courses/HTML5与移动互联网开发/SPA富应用开发
 	url = git@github.com:edu2act/course-spa.git
+[submodule "courses/基础课程/网络原理"]
+	path = courses/基础课程/网络原理
+	url = git@github.com:edu2act/course-NetWork.git
