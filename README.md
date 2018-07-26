@@ -9,7 +9,7 @@
 |[网络原理](https://github.com/edu2act/course-NetWork/tree/2017-2018-2st)|2017级|[基础课程](./courses/基础课程)|[![](https://img.shields.io/badge/term-2017--2018--2st-blue.svg)](https://github.com/edu2act/course-NetWork/releases/tag/2017-2018-2st)|
 |[WEB开发（一）](https://github.com/edu2act/course-web1/tree/2017-2018-2st)|2017级|[基础课程](./courses/基础课程)|[![](https://img.shields.io/badge/term-2017--2018--2st-blue.svg)](https://github.com/edu2act/course-web1/releases/tag/2017-2018-2st)|
 |[程序设计基础（C语言）](https://github.com/edu2act/course-C/tree/2017-2018-2st)|2017级|[基础课程](./courses/基础课程)|[![](https://img.shields.io/badge/term-2017--2018--2st-blue.svg)](https://github.com/edu2act/course-C/releases/tag/2017-2018-2st)|
-|[操作系统](https://github.com/edu2act/course-OS/)|2016级|[基础课程](./courses/基础课程)||
+|[操作系统](https://github.com/edu2act/course-OS/tree/2017-2018-2st)|2016级|[基础课程](./courses/基础课程)|[![](https://img.shields.io/badge/term-2017--2018--2st-blue.svg)](https://github.com/edu2act/course-C/releases/tag/2017-2018-2st)|
 |[数据库原理](https://github.com/edu2act/course-DataBase/)|2016级|[基础课程](./courses/基础课程)||
 |[Linux系统基础](https://github.com/edu2act/course-linux-system/tree/2017-2018-2st)|2016级|[基础课程](./courses/基础课程)|[![](https://img.shields.io/badge/term-2017--2018--2st-blue.svg)](https://github.com/edu2act/course-linux-system/releases/tag/2017-2018-2st)|
 |[项目管理](https://github.com/edu2act/course-IT-Project-Management/tree/2017-2018-2st)|2015级|[基础课程](./courses/基础课程)|[![](https://img.shields.io/badge/term-2017--2018--2st-blue.svg)](https://github.com/edu2act/course-IT-Project-Management/releases/tag/2017-2018-2st)|

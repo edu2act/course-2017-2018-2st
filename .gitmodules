@@ -46,3 +46,6 @@
 [submodule "courses/基础课程/WEB开发（一）"]
 	path = courses/基础课程/WEB开发（一）
 	url = git@github.com:edu2act/course-web1.git
+[submodule "courses/基础课程/操作系统"]
+	path = courses/基础课程/操作系统
+	url = git@github.com:edu2act/course-OS.git
