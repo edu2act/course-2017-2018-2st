@@ -61,3 +61,6 @@
 [submodule "courses/基础课程/数据库原理"]
 	path = courses/基础课程/数据库原理
 	url = git@github.com:edu2act/course-DataBase.git
+[submodule "courses/Java与移动智能设备开发/JavaSE"]
+	path = courses/Java与移动智能设备开发/JavaSE
+	url = git@github.com:edu2act/course-JavaSE-Android.git
