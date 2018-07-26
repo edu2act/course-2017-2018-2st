@@ -22,3 +22,9 @@
 [submodule "courses/基础课程/程序设计基础（C语言）"]
 	path = courses/基础课程/程序设计基础（C语言）
 	url = git@github.com:edu2act/course-C.git
+[submodule "courses/PHP与云计算技术/Hadoop架构"]
+	path = courses/PHP与云计算技术/Hadoop架构
+	url = git@github.com:edu2act/course-Hadoop.git
+[submodule "courses/Java与大数据分析/Hadoop架构"]
+	path = courses/Java与大数据分析/Hadoop架构
+	url = git@github.com:edu2act/course-Hadoop.git
