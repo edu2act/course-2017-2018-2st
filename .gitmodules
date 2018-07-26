@@ -64,3 +64,6 @@
 [submodule "courses/Java与移动智能设备开发/JavaSE"]
 	path = courses/Java与移动智能设备开发/JavaSE
 	url = git@github.com:edu2act/course-JavaSE-Android.git
+[submodule "courses/基础课程/软件体系结构（设计模式）"]
+	path = courses/基础课程/软件体系结构（设计模式）
+	url = git@github.com:edu2act/course-Software-architecture.git
