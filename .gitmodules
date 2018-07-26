@@ -28,3 +28,6 @@
 [submodule "courses/Java与大数据分析/Hadoop架构"]
 	path = courses/Java与大数据分析/Hadoop架构
 	url = git@github.com:edu2act/course-Hadoop.git
+[submodule "courses/PHP与云计算技术/Linux平台PHP服务端开发"]
+	path = courses/PHP与云计算技术/Linux平台PHP服务端开发
+	url = git@github.com:edu2act/course-php-serverside-development-on-linux.git
