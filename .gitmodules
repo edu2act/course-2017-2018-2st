@@ -43,3 +43,6 @@
 [submodule "courses/基础课程/网络原理"]
 	path = courses/基础课程/网络原理
 	url = git@github.com:edu2act/course-NetWork.git
+[submodule "courses/基础课程/WEB开发（一）"]
+	path = courses/基础课程/WEB开发（一）
+	url = git@github.com:edu2act/course-web1.git
