@@ -15,9 +15,9 @@
 |[项目管理](https://github.com/edu2act/course-IT-Project-Management/tree/2017-2018-2st)|2015级|[基础课程](./courses/基础课程)|[![](https://img.shields.io/badge/term-2017--2018--2st-blue.svg)](https://github.com/edu2act/course-IT-Project-Management/releases/tag/2017-2018-2st)|
 |[软件体系结构（设计模式）](https://github.com/edu2act/course-Software-architecture)|2015级|[基础课程](./courses/基础课程)||
 |[JavaSE](https://github.com/edu2act/course-JavaSE-test/)|2016级|[软件测试](./courses/软件测试)||
-|[接口测试](https://github.com/edu2act/course-interface-testing)|2015级|[软件测试](./courses/软件测试)||
-|[性能测试](https://github.com/edu2act/course-Load-Testing/)|2015级|[软件测试](./courses/软件测试)||
-|[移动端测试](https://github.com/edu2act/course-APP-Testing/)|2015级|[软件测试](./courses/软件测试)||
+|[接口测试](https://github.com/edu2act/course-interface-testing/tree/2017-2018-2st)|2015级|[软件测试](./courses/软件测试)|[![](https://img.shields.io/badge/term-2017--2018--2st-blue.svg)](https://github.com/edu2act/course-interface-testing/releases/tag/2017-2018-2st)|
+|[性能测试](https://github.com/edu2act/course-Load-Testing/tree/2017-2018-2st)|2015级|[软件测试](./courses/软件测试)|[![](https://img.shields.io/badge/term-2017--2018--2st-blue.svg)](https://github.com/edu2act/course-Load-Testing/releases/tag/2017-2018-2st)|
+|[移动端测试](https://github.com/edu2act/course-APP-Testing/tree/2017-2018-2st)|2015级|[软件测试](./courses/软件测试)|[![](https://img.shields.io/badge/term-2017--2018--2st-blue.svg)](https://github.com/edu2act/course-APP-Testing/releases/tag/2017-2018-2st)|
 |[机器学习基础](https://github.com/edu2act/course-machine-learning-foundation/tree/2017-2018-2st)|2016级|[Python与机器学习](./courses/Python与机器学习)|[![](https://img.shields.io/badge/term-2017--2018--2st-blue.svg)](https://github.com/edu2act/course-machine-learning-foundation/releases/tag/2017-2018-2st)|
 |[深度学习进阶](https://github.com/edu2act/course-deep-learning-advanced/tree/2017-2018-2st)|2015级|[Python与机器学习](./courses/Python与机器学习)|[![](https://img.shields.io/badge/term-2017--2018--2st-blue.svg)](https://github.com/edu2act/course-deep-learning-advanced/releases/tag/2017-2018-2st)|
 |[决策树与集成算法](https://github.com/edu2act/course-decision-tree/tree/2017-2018-2st)|2015级|[Python与机器学习](./courses/Python与机器学习)|[![](https://img.shields.io/badge/term-2017--2018--2st-blue.svg)](https://github.com/edu2act/course-decision-tree/releases/tag/2017-2018-2st)|

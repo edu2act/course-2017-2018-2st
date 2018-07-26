@@ -49,3 +49,12 @@
 [submodule "courses/基础课程/操作系统"]
 	path = courses/基础课程/操作系统
 	url = git@github.com:edu2act/course-OS.git
+[submodule "courses/软件测试/接口测试"]
+	path = courses/软件测试/接口测试
+	url = git@github.com:edu2act/course-interface-testing.git
+[submodule "courses/软件测试/性能测试"]
+	path = courses/软件测试/性能测试
+	url = git@github.com:edu2act/course-Load-Testing.git
+[submodule "courses/软件测试/移动端测试"]
+	path = courses/软件测试/移动端测试
+	url = git@github.com:edu2act/course-APP-Testing.git
