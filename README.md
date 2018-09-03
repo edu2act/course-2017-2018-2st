@@ -29,7 +29,7 @@
 |[SPA富应用开发](https://github.com/edu2act/course-spa/tree/2017-2018-2st)|2015级|[HTML5与移动互联网开发](./courses/HTML5与移动互联网开发)|[![](https://img.shields.io/badge/term-2017--2018--2st-blue.svg)](https://github.com/edu2act/course-spa/releases/tag/2017-2018-2st)|
 |[混合应用开发](https://github.com/edu2act/course-hybrid-app-development)|2015级|[HTML5与移动互联网开发](./courses/HTML5与移动互联网开发)||
 |[H5动画与游戏开发](https://github.com/edu2act/course-H5-Animation-and-Game-Development)|2015级|[HTML5与移动互联网开发](./courses/HTML5与移动互联网开发)||
-|[JavaSE](https://github.com/edu2act/course-javase-bigdata)|2016级|[Java与大数据分析](./courses/Java与大数据分析)||
+|[JavaSE](https://github.com/edu2act/course-javase-bigdata/tree/2017-2018-2st)|2016级|[Java与大数据分析](./courses/Java与大数据分析)|[![](https://img.shields.io/badge/term-2017--2018--2st-blue.svg)](https://github.com/edu2act/course-javase-bigdata/releases/tag/2017-2018-2st)|
 |[Hadoop架构](https://github.com/edu2act/course-Hadoop/tree/2017-2018-2st)|2015级|[Java与大数据分析](./courses/Java与大数据分析)|[![](https://img.shields.io/badge/term-2017--2018--2st-blue.svg)](https://github.com/edu2act/course-Hadoop/releases/tag/2017-2018-2st)|
 |[Python与数据挖掘](https://github.com/edu2act/course-Python/tree/2017-2018-2st)|2015级|[Java与大数据分析](./courses/Java与大数据分析)|[![](https://img.shields.io/badge/term-2017--2018--2st-blue.svg)](https://github.com/edu2act/course-Python/releases/tag/2017-2018-2st)|
 |[数据挖掘基础](https://github.com/edu2act/course-Fundamentals-of-data-mining/tree/2017-2018-2st)|2015级|[Java与大数据分析](./courses/Java与大数据分析)|[![](https://img.shields.io/badge/term-2017--2018--2st-blue.svg)](https://github.com/edu2act/course-JavaSE-Android/releases/tag/2017-2018-2st)|

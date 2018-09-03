@@ -70,3 +70,6 @@
 [submodule "courses/Java与大数据分析/数据挖掘基础"]
 	path = courses/Java与大数据分析/数据挖掘基础
 	url = git@github.com:edu2act/course-Fundamentals-of-data-mining.git
+[submodule "courses/Java与大数据分析/JavaSE"]
+	path = courses/Java与大数据分析/JavaSE
+	url = git@github.com:edu2act/course-javase-bigdata.git
