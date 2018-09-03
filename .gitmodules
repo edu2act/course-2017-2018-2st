@@ -67,3 +67,6 @@
 [submodule "courses/基础课程/软件体系结构（设计模式）"]
 	path = courses/基础课程/软件体系结构（设计模式）
 	url = git@github.com:edu2act/course-Software-architecture.git
+[submodule "courses/Java与大数据分析/数据挖掘基础"]
+	path = courses/Java与大数据分析/数据挖掘基础
+	url = git@github.com:edu2act/course-Fundamentals-of-data-mining.git
