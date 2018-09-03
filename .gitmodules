@@ -73,3 +73,6 @@
 [submodule "courses/Java与大数据分析/JavaSE"]
 	path = courses/Java与大数据分析/JavaSE
 	url = git@github.com:edu2act/course-javase-bigdata.git
+[submodule "courses/HTML5与移动互联网开发/JavaScript进阶"]
+	path = courses/HTML5与移动互联网开发/JavaScript进阶
+	url = git@github.com:edu2act/course-javascript-advanced.git
