@@ -85,3 +85,6 @@
 [submodule "courses/软件测试/JavaSE"]
 	path = courses/软件测试/JavaSE
 	url = git@github.com:edu2act/course-JavaSE-test.git
+[submodule "courses/PHP与云计算技术/高性能PHP应用开发"]
+	path = courses/PHP与云计算技术/高性能PHP应用开发
+	url = git@github.com:edu2act/course-php-high-performance.git
