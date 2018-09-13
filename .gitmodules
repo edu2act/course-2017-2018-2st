@@ -82,3 +82,6 @@
 [submodule "courses/HTML5与移动互联网开发/H5动画与游戏开发"]
 	path = courses/HTML5与移动互联网开发/H5动画与游戏开发
 	url = git@github.com:edu2act/course-H5-Animation-and-Game-Development.git
+[submodule "courses/软件测试/JavaSE"]
+	path = courses/软件测试/JavaSE
+	url = git@github.com:edu2act/course-JavaSE-test.git
